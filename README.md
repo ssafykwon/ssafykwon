@@ -1,6 +1,7 @@
 <!-- 프로필 소개 -->
 # Hey there! 👋
 I'm 기용, a passionate developer interested in SSAFY. Welcome to my GitHub profile!
+* ☀️ too hot 😂😂
 
 <!-- 기술 스택 -->
 ## Tech Stack
